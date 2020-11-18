@@ -12,7 +12,7 @@ rosdep update
 echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 
-####### Test ROS 
+### Test ROS 
 
 roscore
 rosrun turtlesim turtlesim_node
