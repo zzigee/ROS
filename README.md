@@ -1,4 +1,4 @@
-# Install ros_melodic
+# Install ros_melodic (Xavier AGX Jetpack 4.2.3)
 
 ## ROS melodic 설치 (Jetpack 4.x 버전 설치 이후)
 
